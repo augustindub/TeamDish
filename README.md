@@ -1,3 +1,4 @@
+Accessible at the following address :
 augustindub.github.io/TeamDish
 
 ## Welcome to GitHub Pages
