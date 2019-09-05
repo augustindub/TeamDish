@@ -6,22 +6,21 @@ body {
 
 .intro {
     color: grey;
-    background: url("teamdishback.jpg") no-repeat left top scroll transparent;
+    background: url("teamdishback.jpg") no-repeat left top ;
     background-size: cover;
-    background-position:0px 0px;
 
 }
 
 .descriptions {
     color: white;
-    background: url("teamdishbackblack.jpg") no-repeat left top scroll transparent;
+    background: url("teamdishbackblack.jpg") no-repeat left top ;
     background-size: cover;
     margin-top: -1.4%;
 }
 
 .steps {
     color: white;
-    background: url("teamdishback3.jpg") no-repeat left top scroll transparent;
+    background: url("teamdishback3.jpg") no-repeat left top ;
     background-size: cover;
     margin-top: -1.9%;
 
