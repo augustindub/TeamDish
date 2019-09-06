@@ -36,10 +36,33 @@ body {
     display: block;
 }
 
+.roadmap{
+    color: white;
+    background: url("neonbrand-9m2RZvHS_cU-unsplash.jpg") no-repeat center;
+    background-size: cover;
+    margin-top: -2.6%;
+    display: block;
+}
+
+.market{
+    color: white;
+    background: url("syd-wachs-epqNIYI6S7E-unsplash.jpg") no-repeat center;
+    background-size: cover;
+    margin-top: -2.6%;
+    display: block;
+}
+
 h2{
     margin-left: 30%;
     text-align: center;
-    font-size: 1.8em;
+    font-size: 2.1em;
+    font-style: italic;
+}
+
+h3{
+    margin-left: 30%;
+    text-align: center;
+    font-size: 1.1em;
     font-style: italic;
 }
 
@@ -53,7 +76,7 @@ h2{
 }
 
 .swipe {
-    padding-top: 7%;
+    padding-top: 5%;
     text-align: right;
     margin-right: 2%;
     padding-bottom: 4%; 
@@ -62,13 +85,13 @@ h2{
 }
 
 #scroll {
-    margin-top: 6.5%;
+    margin-top: 5%;
     width: 5%;
     height: 5%;
 }
 
 .scroll {
-    padding-top: 5%;
+    padding-top: 4%;
     display: flex;
     flex-direction: row-reverse;
     margin-left : auto;
@@ -163,4 +186,26 @@ span {
     margin-left: auto;
     padding-bottom: 9%;
     padding-top: 2%;
+}
+
+#roadmap {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 6%;
+    padding-top: 2%;
+    opacity: 0.9;
+}
+
+#market {
+    width: 60%;
+    height: auto;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    padding-bottom: 6%;
+    padding-top: 2%;
+    opacity: 0.8;
 }
