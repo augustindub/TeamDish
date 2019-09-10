@@ -279,3 +279,30 @@ span {
     opacity: 0.8;
 }
 
+.businessmodel {
+    color: white;
+    background: url("antenna-ZDN-G1xBWHY-unsplash.jpg") no-repeat left;
+    background-size: cover;
+    margin-top: -1.9%;
+    display: block;
+
+
+}
+
+.bm {
+    padding-top: 3%;
+    text-align: center;
+    margin-right: 2%;
+    font-size: 2.5em;
+    font-weight: bold; 
+    
+}
+
+#bm{
+    width: 40%;
+    height: auto;
+    margin-left: 30%;
+    margin-right: auto;
+    opacity: 0.9;
+    padding-bottom: 4%;
+}
