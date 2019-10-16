@@ -19,9 +19,60 @@ body {
     margin-top: -1.4%;
 }
 
+#solution{
+    max-width:100%;
+    height:auto;
+}
+#price{
+    max-width:100%;
+    height:auto;
+}
+
+#teamtt{
+    max-width:100%;
+    height:auto;
+}
+#growth{
+    max-width:100%;
+    height:auto;
+}
+
+#marketsize{
+    max-width:100%;
+    height:auto;
+}
+
+#bizmodel{
+    max-width:100%;
+    height:auto;
+}
+
+#product{
+    max-width:100%;
+    height:auto;
+}
+
+#vision{
+    max-width: 100%;
+    height: auto;
+}
+
+#customer{
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
 .steps {
     color: white;
-    background: url("teamdishback3.jpg") no-repeat left;
+    /*background: url("solution.png") no-repeat left;*/
     background-size: cover;
     margin-top: -1.9%;
     display: block;
@@ -30,7 +81,6 @@ body {
 
 .leanstartup{
     color: grey;
-    background: url("jakub-kapusnak-sDbj1dFlFPU-unsplash.jpg") no-repeat center;
     background-size: cover;
     margin-top: -2.6%;
     display: block;
@@ -38,7 +88,6 @@ body {
 
 .roadmap{
     color: white;
-    background: url("hermes-rivera-Ww8eQWjMJWk-unsplash.jpg") no-repeat center;
     background-size: cover;
     margin-top: -2.6%;
     display: block;
@@ -46,7 +95,6 @@ body {
 
 .market{
     color: white;
-    background: url("syd-wachs-epqNIYI6S7E-unsplash.jpg") no-repeat center;
     background-size: cover;
     margin-top: -2.6%;
     display: block;
@@ -54,9 +102,8 @@ body {
 
 .Team{
     color: white;
-    background: url("kelsey-chance-ZrhtQyGFG6s-unsplash.jpg") no-repeat center;
     background-size: cover;
-    margin-top: -2.6%;
+    margin-top: -1%;
     display: block;
 }
 
@@ -110,6 +157,7 @@ h3{
 }
 
 .step {
+
     padding-top: 2%;
     text-align: right;
     margin-right: 2%;
@@ -283,7 +331,7 @@ span {
     color: white;
     background: url("antenna-ZDN-G1xBWHY-unsplash.jpg") no-repeat left;
     background-size: cover;
-    margin-top: -1.9%;
+    margin-top: -0.8%;
     display: block;
 
 
